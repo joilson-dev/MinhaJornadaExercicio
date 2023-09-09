@@ -8,6 +8,10 @@ Este repositório é organizado usando branches para separar diferentes partes, 
 
 - **main**: Este é o branch principal que contém informações gerais sobre o repositório, incluindo este README.
 
+### Princípios de Codificação
+- **modulo-1-introducao-javascript**: Array e loop For.
+- **modulo-2-projetos-javascript**: DOM e Seletores: Manipulação de elementos da página. Eventos: Lidando com interações do usuário. Web Storage:
+
 ## Navegando pelos Branches
 
 Você pode navegar facilmente entre os diferentes tópicos e áreas de conhecimento usando a função de seleção de branches na parte superior deste repositório. Basta selecionar o branch relevante para acessar os exercícios e projetos específicos relacionados a esse tópico.
