@@ -16,6 +16,17 @@
     "comma-dangle": ["error", "never"],
     "arrow-parens": ["error", "as-needed"],
     "object-curly-spacing": ["error", "always"],
-    "prefer-destructuring": "off"
+    "prefer-destructuring": "off",
+    //
+    "prefer-arrow-callback": "off",
+    "func-names": "off",
+    "no-param-reassign": "off",
+    "prefer-const": "off",
+    "no-restricted-syntax": [
+      "off",
+      "FunctionExpression",
+      "WithStatement",
+      "BinaryExpression[operator='in']"
+    ]
   }
 }
