@@ -1,0 +1,17 @@
+{
+  "name": "minhajornadaexercicio",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao meu repositório de exercícios, onde compartilho minha jornada de aprendizado e demonstrações práticas de minhas habilidades.",
+  "main": "jsNaPratica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joilson",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "prettier-eslint": "^15.0.1"
+  }
+}
