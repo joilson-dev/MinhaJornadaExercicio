@@ -1,17 +1,30 @@
-# Meu Repositório de Exercícios - Minha Jornada de Aprendizado
+# Projetos JavaScript - Manipulação do DOM, Eventos e Web Storage
 
-Bem-vindo ao meu repositório de exercícios, onde compartilho minha jornada de aprendizado e demonstrações práticas de minhas habilidades.
+Bem-vindo ao branch "2-projetos-javascript" do meu repositório de exercícios. Este branch é dedicado a projetos práticos que demonstram minha compreensão e habilidades em JavaScript, com foco em três áreas-chave:
 
-## Organização do Repositório
+## Manipulação de Elementos da Página
 
-Este repositório é organizado usando branches para separar diferentes partes, estruturas ou áreas de conhecimento. Cada branch corresponde a um tópico específico. Abaixo está a lista de branches e suas finalidades:
+Neste branch, você encontrará projetos que se concentram na manipulação do DOM (Document Object Model) e na interação com elementos da página. Você aprenderá como:
 
-- **main**: Este é o branch principal que contém informações gerais sobre o repositório, incluindo este README.
+- Selecionar elementos HTML usando seletores.
+- Modificar conteúdo, estilos e propriedades de elementos em tempo real.
+- Criar e adicionar novos elementos à página.
+- Atualizar dinamicamente a estrutura da página com JavaScript.
 
-### Princípios de Codificação
-- **modulo-1-introducao-javascript**: Array e loop For.
-- **modulo-2-projetos-javascript**: DOM e Seletores: Manipulação de elementos da página. Eventos: Lidando com interações do usuário. Web Storage:
+## Eventos: Lidando com Interações do Usuário
 
-## Navegando pelos Branches
+Os projetos deste tópico demonstram como lidar com interações do usuário por meio de eventos. Você aprenderá a:
 
-Você pode navegar facilmente entre os diferentes tópicos e áreas de conhecimento usando a função de seleção de branches na parte superior deste repositório. Basta selecionar o branch relevante para acessar os exercícios e projetos específicos relacionados a esse tópico.
+- Capturar eventos, como cliques de mouse, pressionamentos de tecla e movimentos do mouse.
+- Responder a eventos com funções JavaScript.
+- Criar experiências interativas, como botões, animações e validações de formulários.
+- Gerenciar fluxos de eventos e prevenir comportamentos indesejados.
+
+## Web Storage: Armazenamento de Dados Local
+
+Além disso, exploraremos o uso do armazenamento web, que permite que aplicativos da web armazenem dados localmente no navegador do usuário. Você verá como:
+
+- Armazenar informações de forma persistente no navegador.
+- Acessar e recuperar dados armazenados localmente.
+- Utilizar o armazenamento local e de sessão para melhorar a experiência do usuário.
+- Criar aplicativos que lembram configurações e preferências do usuário.
